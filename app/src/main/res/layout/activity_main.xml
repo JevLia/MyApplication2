@@ -60,7 +60,7 @@
             android:layout_marginBottom="2dp"
             android:background="#7ac47f"
             android:layout_weight="1"
-            android:text="Hello World!"
+            android:text="Hello World"
             android:textColor="#1406dc" />
 
         <TextView
